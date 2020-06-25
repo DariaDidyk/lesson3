@@ -57,3 +57,27 @@ if (userAge > 18) {
 }   
     console.log(userAge);
 */
+/*
+let typeOfAction = prompt("enter action type");
+let CREATE_ACTION = "create";
+let READ_ACTION = "read";
+let UPDATE_ACTION = "update";
+let DELETE_ACTION = "delete";
+/*
+switch (typeOfAction) {
+    case CREATE_ACTION:
+        console.log("create")
+        break;
+    case READ_ACTION:
+        console.log("read")
+        break;
+    case UPDATE_ACTION:
+        console.log("update")
+        break;
+    case DELETE_ACTION:
+        console.log("delete")
+        break;
+    default:
+        console.log ("default behavior");
+}
+*/
